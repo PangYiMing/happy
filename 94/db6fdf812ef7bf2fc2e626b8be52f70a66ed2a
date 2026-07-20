@@ -1,0 +1,30 @@
+packages/happy-cli/src/claude/claudeLocal.ts
+  s_b3862641989590::t_91f73bba24fc0d 15-16
+  s_b3862641989590::t_d54e15ade5e673 52
+  s_b3862641989590::t_5dc269709f2eaf 250-262
+packages/happy-cli/src/claude/claudeLocalLauncher.ts
+  s_b3862641989590::t_4888b6da1a81c7 124
+packages/happy-cli/src/claude/session.ts
+  s_b3862641989590::t_397e3a817c6e6a 70
+  s_b3862641989590::t_369fbad239feb7 20-21
+  s_b3862641989590::t_0b58e37eb00d95 7
+  s_b3862641989590::t_186618d184806f 53
+packages/happy-cli/src/claude/loop.ts
+  s_b3862641989590::t_6e594f51a247de 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "94db6fdf812ef7bf2fc2e626b8be52f70a66ed2a",
+  "prompts": {},
+  "sessions": {
+    "s_b3862641989590": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b9dda85-9492-4182-816f-2d59297bfdbd",
+        "model": "glm-5.2"
+      },
+      "human_author": "ympang <ympang@trip.com>"
+    }
+  }
+}
